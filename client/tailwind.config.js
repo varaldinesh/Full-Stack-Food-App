@@ -55,6 +55,8 @@ module.exports = {
         cartBg: "#282a2c",
         cartItem: "#2e3033",
         cartTotal: "#343739",
+        darkOverlay: "rgba(0,0,0,0.2)",
+        lightOverlay: "rgba(255,255,255,0.4)",
       },
     },
   },
